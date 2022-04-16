@@ -1,2 +1,2 @@
-# first_ptoject_bakery
+# first_project_bakery
 Project - 1
